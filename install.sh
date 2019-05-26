@@ -1,19 +1,8 @@
 # install-misp
 
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
  
 @greenanimalsbank 
-6
-35 18 da667/AutoMISP
- Code  Issues 5  Pull requests 2  Projects 0  Wiki  Security  Insights
-AutoMISP/auto-MISP-ubuntu.sh
 
     
 #!/bin/bash
